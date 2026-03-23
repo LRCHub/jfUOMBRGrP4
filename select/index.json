@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Drowned Aurora",
+  "base_artist": "SoundWander_OtoLog",
+  "createdAt": "2026-03-23T12:28:32.197639Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Downed And Drowned",
+      "artist": "The Longest Johns",
+      "has_synced": true,
+      "path": "select/01_Downed_And_Drowned_The_Longest_Johns.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Drowned Girl",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/02_The_Drowned_Girl_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Drowned World (BT & Sasha’s remix)",
+      "artist": "Madonna",
+      "has_synced": false,
+      "path": "select/03_Drowned_World_(BT_&_Sasha’s_remix)_Madonna.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Drowned World/Substitute For Love",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/04_Drowned_World_Substitute_For_Love_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Drowned World / Substitute For Love",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/05_Drowned_World___Substitute_For_Love_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Drowned World⁄Substitute for Love",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/06_Drowned_World⁄Substitute_for_Love_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Hazards of Love 4 (The Drowned)",
+      "artist": "The Decemberists",
+      "has_synced": true,
+      "path": "select/07_The_Hazards_of_Love_4_(The_Drowned)_The_Decemberists.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Drowned In Torment",
+      "artist": "Bolt Thrower",
+      "has_synced": false,
+      "path": "select/08_Drowned_In_Torment_Bolt_Thrower.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Win or Be Drowned",
+      "artist": "Running Wild",
+      "has_synced": false,
+      "path": "select/09_Win_or_Be_Drowned_Running_Wild.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Drowned in Your Blood",
+      "artist": "Mortician",
+      "has_synced": true,
+      "path": "select/10_Drowned_in_Your_Blood_Mortician.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The One I Drowned",
+      "artist": "Flowing Tears",
+      "has_synced": false,
+      "path": "select/11_The_One_I_Drowned_Flowing_Tears.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Drowned and Torn Asunder",
+      "artist": "Trivium",
+      "has_synced": true,
+      "path": "select/12_Drowned_and_Torn_Asunder_Trivium.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Drowned World\u0000Substitute For Love",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/13_Drowned_World\u0000Substitute_For_Love_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Drowned World / Substitute for Love (BT & Sasha's Bucklodge Ashram remix)",
+      "artist": "Madonna",
+      "has_synced": false,
+      "path": "select/14_Drowned_World___Substitute_for_Love_(BT_&_Sasha's_Bucklodge_Ashram_remix)_Madonna.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Drowned World \u0000 Substitute For Love",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/15_Drowned_World_\u0000_Substitute_For_Love_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Drowned World (BT & Sasha mix)",
+      "artist": "Madonna",
+      "has_synced": false,
+      "path": "select/16_Drowned_World_(BT_&_Sasha_mix)_Madonna.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Drowned World - Substitute For Love",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/17_Drowned_World_-_Substitute_For_Love_Madonna.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Drowned Aurora",
+      "artist": "SoundWander_OtoLog",
+      "has_synced": false,
+      "path": "select/pl_01_Drowned_Aurora_SoundWander_OtoLog.txt"
+    }
+  ]
+}
