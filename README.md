@@ -1,0 +1,36 @@
+# SoundWander_OtoLog – Drowned Aurora
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+【verse 1】
+Colors drip beneath the waves
+A silent sky that no one saves
+Every light is pulled below
+Into currents only I know
+【chorus】
+Drowned aurora, fading slow
+Through the depths where no one goes
+Even if the world turns gray
+Your dying glow will guide my way
+【verse 2】
+Shimmering fragments in the tide
+Lost reflections I cannot hide
+Every pulse, a broken flame
+Whispers softly, calls my name
+【chorus】
+Drowned aurora, fading slow
+Through the depths where no one goes
+Even if the world turns gray
+Your dying glow will guide my way
+【bridge】
+Between the dark and fading light
+I reach for you with all my might
+Though the tide will pull me down
+I’ll swim where your colors drown
+【chorus】
+Drowned aurora, hold me near
+Even in silence, I feel you here
+Through the currents, through the gloom
+Your submerged light will pierce the room
+```
